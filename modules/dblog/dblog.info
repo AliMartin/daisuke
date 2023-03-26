@@ -1,0 +1,11 @@
+name = Database logging
+description = Logs and records system events to the database.
+package = Core
+version = VERSION
+core = 7.x
+files[] = dblog.test
+
+; Information added by Drupal.org packaging script on 2022-06-01
+version = "7.90"
+project = "drupal"
+datestamp = "1654084603"

@@ -1,0 +1,49 @@
+/**
+ * If using a CSS pre-processor, tell it to overwrite this file. If not, place
+ * your custom CSS modifications here.
+ */
+
+/* .front h1.page-header,
+.front #block-system-main {
+	display: none;
+} */
+
+.field-label-inline .field-label {
+	width: 200px;
+}
+
+.field-type-text-long {
+	white-space: pre-line;
+}
+
+.field-name-event-calendar-date {
+	margin-bottom: 15px;
+	font-size: x-large;
+}
+
+.field-name-field-commission,
+.field-name-field-itinerary-sent-to-musician,
+.field-name-field-google-map,
+.field-name-field-requests,
+.field-name-field-fees,
+.field-name-field-contract {
+	margin-bottom: 15px;
+}
+
+.field-name-field-fees {
+	margin-top: 15px;
+
+}
+
+.region-content {
+	margin-bottom: 90px;
+}
+
+.form-item-event-calendar-status-tid.form-type-select select {
+	padding: 4px;
+	height: 50px;
+}
+
+.view-confirmed-shows table {
+	font-size: 10px;
+}
