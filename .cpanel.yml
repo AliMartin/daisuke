@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/hyperlum/daisuke.livekaraokeband.co.uk
+    - /bin/cp -r * $DEPLOYPATH
