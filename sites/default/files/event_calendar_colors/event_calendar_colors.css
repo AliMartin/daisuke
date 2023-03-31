@@ -1,0 +1,115 @@
+.calendar-calendar .month-view .full td.multi-day div.colors-taxonomy-term-7,
+    .calendar-calendar .week-view .full td.multi-day div.colors-taxonomy-term-7,
+    .calendar-calendar .day-view .full td.multi-day div.colors-taxonomy-term-7 {
+      background: none repeat scroll 0 0 #79a736;
+      color: #FFFFFF;
+      height: 1.9em;
+      margin: 0 auto;
+      overflow: hidden;
+      position: relative;
+    }
+    .calendar-calendar .month-view .full td.single-day div.colors-taxonomy-term-7,
+    .calendar-calendar .week-view .full td.single-day div.colors-taxonomy-term-7,
+    .calendar-calendar .day-view .full td.single-day div.colors-taxonomy-term-7 {
+      background: none repeat scroll 0 0 #79a736;
+      overflow: hidden;
+      padding: 0 3px;
+      width: auto;
+    }
+    .calendar-calendar .month-view .full td.multi-day .inner .colors-taxonomy-term-7 .continues,
+    .calendar-calendar .month-view .full td.multi-day .inner .colors-taxonomy-term-7 .cutoff,
+    .calendar-calendar .week-view .full td.multi-day .inner .colors-taxonomy-term-7 .continues,
+    .calendar-calendar .week-view .full td.multi-day .inner .colors-taxonomy-term-7 .cutoff {
+      background: none repeat scroll 0 0 #79a736;
+      border-radius: 0 5px 5px 0;
+      height: 1.9em;
+      padding-left: 6px;
+      position: absolute;
+      right: 0 !important;
+      text-align: left;
+      width: 10px;
+      z-index: 1;
+    }
+    .calendar-calendar .week-view .full div.single-day div.colors-taxonomy-term-7,
+    .calendar-calendar .day-view .full div.single-day div.colors-taxonomy-term-7 {
+      background: none repeat scroll 0 0 #79a736 !important;
+      overflow: hidden;
+      padding: 0 3px;
+      width: auto;
+    }.calendar-calendar .month-view .full td.multi-day div.colors-taxonomy-term-8,
+    .calendar-calendar .week-view .full td.multi-day div.colors-taxonomy-term-8,
+    .calendar-calendar .day-view .full td.multi-day div.colors-taxonomy-term-8 {
+      background: none repeat scroll 0 0 #2769dd;
+      color: #FFFFFF;
+      height: 1.9em;
+      margin: 0 auto;
+      overflow: hidden;
+      position: relative;
+    }
+    .calendar-calendar .month-view .full td.single-day div.colors-taxonomy-term-8,
+    .calendar-calendar .week-view .full td.single-day div.colors-taxonomy-term-8,
+    .calendar-calendar .day-view .full td.single-day div.colors-taxonomy-term-8 {
+      background: none repeat scroll 0 0 #2769dd;
+      overflow: hidden;
+      padding: 0 3px;
+      width: auto;
+    }
+    .calendar-calendar .month-view .full td.multi-day .inner .colors-taxonomy-term-8 .continues,
+    .calendar-calendar .month-view .full td.multi-day .inner .colors-taxonomy-term-8 .cutoff,
+    .calendar-calendar .week-view .full td.multi-day .inner .colors-taxonomy-term-8 .continues,
+    .calendar-calendar .week-view .full td.multi-day .inner .colors-taxonomy-term-8 .cutoff {
+      background: none repeat scroll 0 0 #2769dd;
+      border-radius: 0 5px 5px 0;
+      height: 1.9em;
+      padding-left: 6px;
+      position: absolute;
+      right: 0 !important;
+      text-align: left;
+      width: 10px;
+      z-index: 1;
+    }
+    .calendar-calendar .week-view .full div.single-day div.colors-taxonomy-term-8,
+    .calendar-calendar .day-view .full div.single-day div.colors-taxonomy-term-8 {
+      background: none repeat scroll 0 0 #2769dd !important;
+      overflow: hidden;
+      padding: 0 3px;
+      width: auto;
+    }.calendar-calendar .month-view .full td.multi-day div.colors-taxonomy-term-9,
+    .calendar-calendar .week-view .full td.multi-day div.colors-taxonomy-term-9,
+    .calendar-calendar .day-view .full td.multi-day div.colors-taxonomy-term-9 {
+      background: none repeat scroll 0 0 #c9302c;
+      color: #FFFFFF;
+      height: 1.9em;
+      margin: 0 auto;
+      overflow: hidden;
+      position: relative;
+    }
+    .calendar-calendar .month-view .full td.single-day div.colors-taxonomy-term-9,
+    .calendar-calendar .week-view .full td.single-day div.colors-taxonomy-term-9,
+    .calendar-calendar .day-view .full td.single-day div.colors-taxonomy-term-9 {
+      background: none repeat scroll 0 0 #c9302c;
+      overflow: hidden;
+      padding: 0 3px;
+      width: auto;
+    }
+    .calendar-calendar .month-view .full td.multi-day .inner .colors-taxonomy-term-9 .continues,
+    .calendar-calendar .month-view .full td.multi-day .inner .colors-taxonomy-term-9 .cutoff,
+    .calendar-calendar .week-view .full td.multi-day .inner .colors-taxonomy-term-9 .continues,
+    .calendar-calendar .week-view .full td.multi-day .inner .colors-taxonomy-term-9 .cutoff {
+      background: none repeat scroll 0 0 #c9302c;
+      border-radius: 0 5px 5px 0;
+      height: 1.9em;
+      padding-left: 6px;
+      position: absolute;
+      right: 0 !important;
+      text-align: left;
+      width: 10px;
+      z-index: 1;
+    }
+    .calendar-calendar .week-view .full div.single-day div.colors-taxonomy-term-9,
+    .calendar-calendar .day-view .full div.single-day div.colors-taxonomy-term-9 {
+      background: none repeat scroll 0 0 #c9302c !important;
+      overflow: hidden;
+      padding: 0 3px;
+      width: auto;
+    }
