@@ -10,26 +10,10 @@
  */
 function date_all_day_test_feature_node_info() {
   $items = array(
-    'test_datetime' => array(
-      'name' => t('Date All Day: Datetime'),
+    'date_all_day_test' => array(
+      'name' => t('Date Test'),
       'base' => 'node_content',
-      'description' => t('This content type is used for testing the Date All Day module using the Datetime field type.'),
-      'has_title' => '1',
-      'title_label' => t('Title'),
-      'help' => '',
-    ),
-    'test_iso_date' => array(
-      'name' => t('Date All Day: ISO Date'),
-      'base' => 'node_content',
-      'description' => t('This content type is used for testing the Date All Day module using the ISO Date field type.'),
-      'has_title' => '1',
-      'title_label' => t('Title'),
-      'help' => '',
-    ),
-    'test_timestamp' => array(
-      'name' => t('Date All Day: Timestamp'),
-      'base' => 'node_content',
-      'description' => t('This content type is used for testing the Date All Day module using the UNIX Timestamp field type.'),
+      'description' => t('This content type is used for testing the Date All Day module.'),
       'has_title' => '1',
       'title_label' => t('Title'),
       'help' => '',
