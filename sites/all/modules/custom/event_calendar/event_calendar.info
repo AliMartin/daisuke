@@ -10,6 +10,8 @@ configure = admin/config/date/event-settings
 ; Information added by drupal.org packaging script on 2013-09-30
 version = "7.x-1.x-dev"
 core = "7.x"
-project = "event_calendar"
+; project = "event_calendar"
 datestamp = "1380577400"
 
+; Added by AAM 30/10/24
+project = "custom"
